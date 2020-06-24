@@ -10,6 +10,7 @@ namespace Aula23POO
 
             //para criar uma nova lista tipo "Produti"
             List<Produto> produtos = new List<Produto>();
+            
 
             //criamos um produto atravez do metodo construtor padrão
             Produto produto777 = new Produto();
@@ -63,9 +64,29 @@ namespace Aula23POO
             System.Console.WriteLine("iphone777 - R$" + iphone777.Preco);
 
             // aplicar complemento da atividade
+            List<Cartao> cartoes = new List<Cartao>();
+
+            Cartao card = new Cartao();
+            card.Titular = "João vitor";
+            card.Numero = 777777777;
+            card.Bandeira = "Mastercard";
+            card.Vencimento = 7;
+            
+            
+
+             cartoes.Add( new Cartao("Joao Vitor",7777777,"MasterCard",7));
+           
+
+            foreach(Cartao item in cartoes )
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                System.Console.WriteLine($"{item.Titular} / {item.Numero} / {item.Bandeira} / {item.Vencimento}");
+
+            }
+            
 
 
-
+//Cartao.add(cartoes);
 
 
 
