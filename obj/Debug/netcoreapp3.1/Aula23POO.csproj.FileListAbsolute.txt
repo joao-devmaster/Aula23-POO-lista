@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\bin\Debug\netcoreapp3.1\Aula23POO.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\bin\Debug\netcoreapp3.1\Aula23POO.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\bin\Debug\netcoreapp3.1\Aula23POO.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\bin\Debug\netcoreapp3.1\Aula23POO.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\bin\Debug\netcoreapp3.1\Aula23POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\bin\Debug\netcoreapp3.1\Aula23POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula23POO\obj\Debug\netcoreapp3.1\Aula23POO.genruntimeconfig.cache
